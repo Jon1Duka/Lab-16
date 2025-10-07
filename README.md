@@ -1,1 +1,1 @@
-# Lab-16
+Në këtë laborator ndamë logjikën në funksione të vogla që thërrasin njëri-tjetrin për validim, llogaritje dhe formatim. Krijuam skripte për BMI, çmim total, nota semestrale dhe pastrim teksti, duke përdorur thirrje të brendshme funksionesh për të shmangur përsëritjen dhe për të rritur qartësinë e kodit.
